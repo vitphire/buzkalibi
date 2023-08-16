@@ -1,0 +1,22 @@
+{
+  "name": "buzkalibi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGazdag/buzkalibi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrGazdag/buzkalibi/issues"
+  },
+  "homepage": "https://github.com/MrGazdag/buzkalibi#readme",
+  "devDependencies": {
+    "firebase-tools": "^12.4.8"
+  }
+}
